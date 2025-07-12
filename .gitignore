@@ -1,0 +1,11 @@
+
+target/
+Cargo.lock
+out.bmp
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
