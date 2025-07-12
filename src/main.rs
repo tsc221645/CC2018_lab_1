@@ -20,5 +20,5 @@ fn main() {
     framebuffer.set_current_color(Color::WHITE); // borde
     framebuffer.draw_poligono_border(&poly1::POLY1V);
 
-    framebuffer.render_to_file("out.png");
+    framebuffer.render_to_file("out.bmp");
 }
